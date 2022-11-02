@@ -1,0 +1,19 @@
+/* UNIVERSAL SELECTORS */
+*,
+*::after,
+*::before{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* LAYOUT */
+/* OUTER LAYOUT- GRID */
+/* INNER LAYOUT- FLEXBOX */
+
+header, footer{
+    background-color: aquamarine;
+}
+main{
+    background-color: darkcyan;
+}
